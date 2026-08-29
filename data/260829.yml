@@ -1,0 +1,59 @@
+about:
+  description: A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+  license: Apache-2.0
+  homepage: https://apple.github.io/container/documentation/
+  head: d65874d
+  archived: false
+  latestVersion: 1.3.1
+  collectedAt: 2026-08-29T07:19:12Z
+timeline:
+  created: 2025-05-30
+  lastCommit: 2026-08-28
+  lastRelease: 2026-08-29
+popularity:
+  star: 49488
+  watcher: 215
+  fork: 1756
+  release: 22
+  contributor: 114
+  pullRequest: 401
+  issue: 893
+language:
+  Swift: 2675428
+  Shell: 24034
+  Makefile: 23351
+  C: 4088
+totalLine: 2726901
+recent:
+  last30d:
+    since: 2026-07-30
+    release: 4
+    mergedPR: 29
+    openPR: 35
+    closedIssue: 29
+    openIssue: 31
+    commit: 33
+  last90d:
+    since: 2026-05-31
+    release: 7
+    mergedPR: 126
+    openPR: 142
+    closedIssue: 83
+    openIssue: 123
+    commit: 134
+  last180d:
+    since: 2026-03-02
+    release: 11
+    mergedPR: 273
+    openPR: 164
+    closedIssue: 169
+    openIssue: 162
+    commit: 287
+  last360d:
+    since: 2025-09-03
+    release: 18
+    mergedPR: 543
+    openPR: 196
+    closedIssue: 357
+    openIssue: 254
+    commit: 547
