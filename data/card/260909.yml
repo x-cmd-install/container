@@ -1,0 +1,153 @@
+about:
+  description: "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. "
+  license: Apache-2.0
+  homepage: https://apple.github.io/container/documentation/
+  head: 9a8917c
+  archived: false
+  latestVersion: "1.4.1"
+  latestRelease: "1.4.1"
+  latestPrerelease: ""
+  collectedAt: 2026-09-09T05:27:31Z
+timeline:
+  created: 2025-05-30
+  lastCommit: 2026-09-08
+  lastVersion: 2026-09-09
+  lastRelease: 2026-09-09
+  lastPrerelease: 
+popularity:
+  star: 49788
+  watcher: 218
+  fork: 1778
+  release: 23
+  contributor: 113
+  pullRequest: 1162
+  issue: 910
+language:
+  Swift: 2699012
+  Shell: 24034
+  Makefile: 23351
+  C: 4088
+totalBytes: 2750485
+recent:
+  last30d:
+    since: 2026-08-10
+    release: 3
+    mergedPR: 19
+    openPR: 31
+    closedIssue: 19
+    openIssue: 34
+    commit: 20
+  last60d:
+    since: 2026-07-11
+    release: 6
+    mergedPR: 67
+    openPR: 71
+    closedIssue: 44
+    openIssue: 74
+    commit: 72
+  last90d:
+    since: 2026-06-11
+    release: 7
+    mergedPR: 110
+    openPR: 141
+    closedIssue: 66
+    openIssue: 121
+    commit: 114
+  last180d:
+    since: 2026-03-13
+    release: 12
+    mergedPR: 270
+    openPR: 172
+    closedIssue: 167
+    openIssue: 172
+    commit: 275
+  last360d:
+    since: 2025-09-14
+    release: 19
+    mergedPR: 537
+    openPR: 204
+    closedIssue: 352
+    openIssue: 260
+    commit: 534
+  last720d:
+    since: 2024-09-19
+    release: 23
+    mergedPR: 750
+    openPR: 205
+    closedIssue: 598
+    openIssue: 312
+    commit: 754
+total:
+  release: 23
+  mergedPR: 750
+  openPR: 205
+  closedIssue: 598
+  openIssue: 312
+  commit: 754
+---
+path: /home/runner/.x-repo/github.com/apple/container
+collectedAt: 2026-09-09T05:27:34Z
+loc:
+  Swift:
+    code: 48795
+    comments: 11416
+    blanks: 7938
+    files: 447
+  Sh:
+    code: 472
+    comments: 171
+    blanks: 88
+    files: 9
+  Makefile:
+    code: 368
+    comments: 70
+    blanks: 59
+    files: 2
+  Yaml:
+    code: 126
+    comments: 9
+    blanks: 0
+    files: 1
+  Toml:
+    code: 70
+    comments: 0
+    blanks: 14
+    files: 7
+  Dockerfile:
+    code: 24
+    comments: 6
+    blanks: 5
+    files: 1
+  CHeader:
+    code: 19
+    comments: 30
+    blanks: 10
+    files: 2
+  C:
+    code: 13
+    comments: 31
+    blanks: 6
+    files: 2
+  Svg:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3055
+    blanks: 1546
+    files: 28
+  Text:
+    code: 0
+    comments: 12
+    blanks: 4
+    files: 2
+total:
+  code: 50438
+  comments: 14892
+  blanks: 9738
+  files: 502
+---
+
+---
