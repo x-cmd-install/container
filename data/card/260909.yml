@@ -2,26 +2,26 @@ about:
   description: "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. "
   license: Apache-2.0
   homepage: https://apple.github.io/container/documentation/
-  head: 9a8917c
+  head: 8ca5c80
   archived: false
   latestVersion: "1.4.1"
   latestRelease: "1.4.1"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:27:31Z
+  collectedAt: 2026-09-09T19:33:58Z
 timeline:
   created: 2025-05-30
-  lastCommit: 2026-09-08
+  lastCommit: 2026-09-09
   lastVersion: 2026-09-09
   lastRelease: 2026-09-09
   lastPrerelease: 
 popularity:
-  star: 49788
-  watcher: 218
-  fork: 1778
+  star: 49804
+  watcher: 216
+  fork: 1774
   release: 23
-  contributor: 113
-  pullRequest: 1162
-  issue: 910
+  contributor: 114
+  pullRequest: 1163
+  issue: 911
 language:
   Swift: 2699012
   Shell: 24034
@@ -32,61 +32,61 @@ recent:
   last30d:
     since: 2026-08-10
     release: 3
-    mergedPR: 19
+    mergedPR: 20
     openPR: 31
     closedIssue: 19
-    openIssue: 34
-    commit: 20
+    openIssue: 35
+    commit: 21
   last60d:
     since: 2026-07-11
     release: 6
-    mergedPR: 67
+    mergedPR: 68
     openPR: 71
     closedIssue: 44
-    openIssue: 74
-    commit: 72
+    openIssue: 75
+    commit: 73
   last90d:
     since: 2026-06-11
     release: 7
-    mergedPR: 110
+    mergedPR: 111
     openPR: 141
     closedIssue: 66
-    openIssue: 121
-    commit: 114
+    openIssue: 122
+    commit: 115
   last180d:
     since: 2026-03-13
     release: 12
-    mergedPR: 270
+    mergedPR: 271
     openPR: 172
     closedIssue: 167
-    openIssue: 172
-    commit: 275
+    openIssue: 173
+    commit: 276
   last360d:
     since: 2025-09-14
     release: 19
-    mergedPR: 537
+    mergedPR: 538
     openPR: 204
     closedIssue: 352
-    openIssue: 260
-    commit: 534
+    openIssue: 261
+    commit: 535
   last720d:
     since: 2024-09-19
     release: 23
-    mergedPR: 750
+    mergedPR: 751
     openPR: 205
     closedIssue: 598
-    openIssue: 312
-    commit: 754
+    openIssue: 313
+    commit: 755
 total:
   release: 23
-  mergedPR: 750
+  mergedPR: 751
   openPR: 205
   closedIssue: 598
-  openIssue: 312
-  commit: 754
+  openIssue: 313
+  commit: 755
 ---
 path: /home/runner/.x-repo/github.com/apple/container
-collectedAt: 2026-09-09T05:27:34Z
+collectedAt: 2026-09-09T19:33:59Z
 loc:
   Swift:
     code: 48795
@@ -135,8 +135,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 3055
-    blanks: 1546
+    comments: 3059
+    blanks: 1549
     files: 28
   Text:
     code: 0
@@ -145,8 +145,8 @@ loc:
     files: 2
 total:
   code: 50438
-  comments: 14892
-  blanks: 9738
+  comments: 14896
+  blanks: 9741
   files: 502
 ---
 
