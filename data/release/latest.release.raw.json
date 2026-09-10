@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 117773865,
       "digest": "sha256:c0d2716afefbb194c93fae662e9cae7cc186bcbcf746816608ec673dd648a6a4",
-      "download_count": 993,
+      "download_count": 1060,
       "created_at": "2026-09-09T01:46:07Z",
       "updated_at": "2026-09-09T01:46:16Z",
       "browser_download_url": "https://github.com/apple/container/releases/download/1.4.1/container-1.4.1-installer-signed.pkg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 154754382,
       "digest": "sha256:2c4d69bca8ff2e532923fe36c84bb41c3d119fa27074e237c103f3757a2fe131",
-      "download_count": 25,
+      "download_count": 26,
       "created_at": "2026-09-09T01:01:10Z",
       "updated_at": "2026-09-09T01:01:16Z",
       "browser_download_url": "https://github.com/apple/container/releases/download/1.4.1/container-dSYM.zip"
