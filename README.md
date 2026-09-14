@@ -38,22 +38,22 @@ Total: **49,953** lines of code across **466** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 49,882 · **Forks**: 1,787 · **Open issues**: 919 · **Contributors**: 115
+- **Stars**: 49,889 · **Forks**: 1,787 · **Open issues**: 919 · **Contributors**: 115
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 755 · **Open PRs**: 207 · **Closed issues**: 600 · **Open issues**: 319 · **Commits**: 759
+- **Releases**: 23 · **Merged PRs**: 755 · **Open PRs**: 209 · **Closed issues**: 600 · **Open issues**: 319 · **Commits**: 759
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 3 | 22 | 32 | 19 | 38 | 25 |
-| last60d | 2026-07-15 | 6 | 69 | 70 | 45 | 78 | 77 |
-| 90d | 2026-06-15 | 7 | 113 | 129 | 63 | 121 | 119 |
-| last180d | 2026-03-17 | 12 | 269 | 174 | 164 | 178 | 280 |
-| 360d | 2025-09-18 | 19 | 535 | 206 | 343 | 259 | 539 |
-| last720d | 2024-09-23 | 23 | 755 | 207 | 600 | 319 | 759 |
+| 30d | 2026-08-15 | 3 | 22 | 28 | 19 | 38 | 20 |
+| last60d | 2026-07-16 | 6 | 64 | 72 | 44 | 77 | 61 |
+| 90d | 2026-06-16 | 7 | 113 | 131 | 62 | 120 | 112 |
+| last180d | 2026-03-18 | 12 | 267 | 176 | 164 | 178 | 270 |
+| 360d | 2025-09-19 | 19 | 530 | 208 | 342 | 258 | 517 |
+| last720d | 2024-09-24 | 23 | 755 | 209 | 600 | 319 | 759 |
 
 ## Release assets
 
@@ -62,15 +62,6 @@ Total: **49,953** lines of code across **466** files in the top 5 languages.
 | [container-1.4.1-installer-signed.pkg](https://github.com/apple/container/releases/download/1.4.1/container-1.4.1-installer-signed.pkg) | 112.3 MiB | `other` |
 | [container-dSYM.zip](https://github.com/apple/container/releases/download/1.4.1/container-dSYM.zip) | 147.6 MiB | `other` |
 | [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.4.1/container-installer-unsigned.pkg) | 109.9 MiB | `other` |
-
-## Distribution status
-
-Reported by **6** distros on [repology.org](https://repology.org/project/container). **2** are ✅ on the latest upstream release, **3** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `1.4.1` | ✅ latest |
-| Nix unstable | `1.1.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -81,4 +72,4 @@ Install metadata for container lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:35:14Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:38:18Z._
