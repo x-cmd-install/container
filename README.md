@@ -4,7 +4,7 @@
 
 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 
-![container](https://repo.x-cmd.io/container.svg)
+[![x-cmd/install — container Code Quality Monitoring Repo Card](https://repo.x-cmd.io/container.svg)](https://x-cmd.com/install/container)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install container
 
 ## Code insight
 
-Total: **50,005** lines of code across **467** files in the top 5 languages.
+Total: **50,040** lines of code across **468** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Swift | 48,910 | 11,467 | 7,954 | 448 |
+| Swift | 48,945 | 11,484 | 7,962 | 449 |
 | Sh | 472 | 171 | 88 | 9 |
 | Makefile | 368 | 70 | 59 | 2 |
 | Yaml | 126 | 9 | 0 | 1 |
@@ -33,27 +33,27 @@ Total: **50,005** lines of code across **467** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.4.1` (2026-09-09)
-- **Last commit**: 2026-09-15
+- **Last commit**: 2026-09-18
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 50,029 · **Forks**: 1,794 · **Open issues**: 926 · **Contributors**: 113
+- **Stars**: 50,070 · **Forks**: 1,795 · **Open issues**: 930 · **Contributors**: 113
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 756 · **Open PRs**: 214 · **Closed issues**: 600 · **Open issues**: 326 · **Commits**: 760
+- **Releases**: 23 · **Merged PRs**: 757 · **Open PRs**: 216 · **Closed issues**: 601 · **Open issues**: 329 · **Commits**: 761
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 19 | 32 | 19 | 39 | 21 |
-| last60d | 2026-07-20 | 6 | 61 | 73 | 43 | 81 | 62 |
-| 90d | 2026-06-20 | 7 | 106 | 128 | 56 | 121 | 113 |
-| last180d | 2026-03-22 | 12 | 265 | 179 | 162 | 183 | 271 |
-| 360d | 2025-09-23 | 19 | 519 | 213 | 337 | 262 | 518 |
-| last720d | 2024-09-28 | 23 | 756 | 214 | 600 | 326 | 760 |
+| 30d | 2026-08-21 | 3 | 19 | 32 | 20 | 41 | 22 |
+| last60d | 2026-07-22 | 6 | 52 | 72 | 39 | 80 | 63 |
+| 90d | 2026-06-22 | 7 | 101 | 126 | 56 | 124 | 114 |
+| last180d | 2026-03-24 | 12 | 265 | 181 | 162 | 185 | 272 |
+| 360d | 2025-09-25 | 19 | 516 | 215 | 336 | 265 | 519 |
+| last720d | 2024-09-30 | 23 | 757 | 216 | 601 | 329 | 761 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for container lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:34:02Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:33:17Z._
