@@ -4,7 +4,7 @@
 
 A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
 
-[![x-cmd/install — container Code Quality Monitoring Repo Card](https://repo.x-cmd.io/container.svg?lang=zh)](https://x-cmd.com/install/container)
+[![x-cmd/install — container Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/container.svg?lang=zh)](https://x-cmd.com/install/container)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install container
 
 ## 代码洞察
 
-合计: **50,005** 行代码（覆盖前 5 种语言、共 **467** 个文件）。
+合计: **50,038** 行代码（覆盖前 5 种语言、共 **467** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Swift | 48,910 | 11,477 | 7,955 | 448 |
+| Swift | 48,943 | 11,478 | 7,961 | 448 |
 | Sh | 472 | 171 | 88 | 9 |
 | Makefile | 368 | 70 | 59 | 2 |
 | Yaml | 126 | 9 | 0 | 1 |
@@ -33,27 +33,27 @@ x install container
 ## 发布
 
 - **最新版本**: `1.4.1` (2026-09-09)
-- **最近提交**: 2026-09-21
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 50,105 · **Fork**: 1,797 · **开放 issue**: 931 · **贡献者**: 113
+- **Star**: 50,127 · **Fork**: 1,801 · **开放 issue**: 931 · **贡献者**: 115
 
 ## 累计统计
 
-- **发布数**: 23 · **已合并 PR**: 759 · **开放 PR**: 217 · **已关闭 issue**: 603 · **开放 issue**: 328 · **提交数**: 763
+- **发布数**: 23 · **已合并 PR**: 761 · **开放 PR**: 215 · **已关闭 issue**: 604 · **开放 issue**: 327 · **提交数**: 765
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 21 | 32 | 22 | 40 | 22 |
-| last60d | 2026-07-24 | 6 | 52 | 69 | 39 | 74 | 53 |
-| 90d | 2026-06-24 | 7 | 99 | 124 | 54 | 120 | 101 |
-| last180d | 2026-03-26 | 12 | 263 | 182 | 162 | 184 | 264 |
-| 360d | 2025-09-27 | 19 | 518 | 216 | 336 | 263 | 517 |
-| last720d | 2024-10-02 | 23 | 759 | 217 | 603 | 328 | 763 |
+| 30d | 2026-08-24 | 3 | 23 | 31 | 23 | 36 | 24 |
+| last60d | 2026-07-25 | 6 | 54 | 64 | 40 | 69 | 55 |
+| 90d | 2026-06-25 | 7 | 99 | 117 | 53 | 116 | 103 |
+| last180d | 2026-03-27 | 12 | 260 | 180 | 161 | 183 | 266 |
+| 360d | 2025-09-28 | 19 | 520 | 214 | 336 | 262 | 519 |
+| last720d | 2024-10-03 | 23 | 761 | 215 | 604 | 327 | 765 |
 
 ## Release 资产
 
@@ -72,4 +72,4 @@ container 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:43:46Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:58:30Z._
