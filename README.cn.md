@@ -14,11 +14,11 @@ x install container
 
 ## 代码洞察
 
-合计: **53,408** 行代码（覆盖前 5 种语言、共 **502** 个文件）。
+合计: **53,493** 行代码（覆盖前 5 种语言、共 **502** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Swift | 52,321 | 12,384 | 8,539 | 482 |
+| Swift | 52,406 | 12,418 | 8,559 | 482 |
 | Sh | 431 | 138 | 79 | 8 |
 | Makefile | 395 | 76 | 63 | 2 |
 | Yaml | 126 | 9 | 0 | 1 |
@@ -32,36 +32,35 @@ x install container
 
 ## 发布
 
-- **最新版本**: `1.5.0` (2026-09-29)
-- **最近提交**: 2026-10-17
-- **Release 含资产**: 3 个
+- **最新版本**: `1.6.0` (2026-10-20)
+- **最近提交**: 2026-10-19
+- **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 50,797 · **Fork**: 1,833 · **开放 issue**: 971 · **贡献者**: 122
+- **Star**: 50,814 · **Fork**: 1,837 · **开放 issue**: 972 · **贡献者**: 122
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 796 · **开放 PR**: 232 · **已关闭 issue**: 622 · **开放 issue**: 349 · **提交数**: 800
+- **发布数**: 25 · **已合并 PR**: 797 · **开放 PR**: 234 · **已关闭 issue**: 622 · **开放 issue**: 350 · **提交数**: 801
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 28 | 35 | 6 | 36 | 33 |
-| last60d | 2026-08-20 | 4 | 56 | 59 | 32 | 72 | 61 |
-| 90d | 2026-07-21 | 7 | 95 | 95 | 56 | 109 | 95 |
-| last180d | 2026-04-22 | 12 | 255 | 195 | 158 | 199 | 259 |
-| 360d | 2025-10-24 | 19 | 516 | 227 | 318 | 269 | 518 |
-| last720d | 2024-10-29 | 24 | 796 | 232 | 622 | 349 | 800 |
+| 30d | 2026-09-20 | 2 | 29 | 37 | 6 | 37 | 34 |
+| last60d | 2026-08-21 | 5 | 56 | 60 | 32 | 72 | 62 |
+| 90d | 2026-07-22 | 8 | 91 | 96 | 54 | 107 | 96 |
+| last180d | 2026-04-23 | 13 | 256 | 197 | 156 | 200 | 260 |
+| 360d | 2025-10-25 | 20 | 512 | 229 | 317 | 270 | 519 |
+| last720d | 2024-10-30 | 25 | 797 | 234 | 622 | 350 | 801 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [container-1.5.0-installer-signed.pkg](https://github.com/apple/container/releases/download/1.5.0/container-1.5.0-installer-signed.pkg) | 112.6 MiB | `other` |
-| [container-dSYM.zip](https://github.com/apple/container/releases/download/1.5.0/container-dSYM.zip) | 147.8 MiB | `other` |
-| [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.5.0/container-installer-unsigned.pkg) | 110.2 MiB | `other` |
+| [container-dSYM.zip](https://github.com/apple/container/releases/download/1.6.0/container-dSYM.zip) | 152.2 MiB | `other` |
+| [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.6.0/container-installer-unsigned.pkg) | 145.5 MiB | `other` |
 
 ## 改进这些数据
 
@@ -72,4 +71,4 @@ container 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261019.yml` · 2026-10-19T05:06:37Z._
+_数据快照: `data/card/261020.yml` · 2026-10-20T05:19:45Z._

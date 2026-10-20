@@ -14,11 +14,11 @@ x install container
 
 ## Code insight
 
-Total: **53,408** lines of code across **502** files in the top 5 languages.
+Total: **53,493** lines of code across **502** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Swift | 52,321 | 12,384 | 8,539 | 482 |
+| Swift | 52,406 | 12,418 | 8,559 | 482 |
 | Sh | 431 | 138 | 79 | 8 |
 | Makefile | 395 | 76 | 63 | 2 |
 | Yaml | 126 | 9 | 0 | 1 |
@@ -32,36 +32,35 @@ Total: **53,408** lines of code across **502** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.5.0` (2026-09-29)
-- **Last commit**: 2026-10-17
-- **Assets in release**: 3
+- **Latest**: `1.6.0` (2026-10-20)
+- **Last commit**: 2026-10-19
+- **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 50,797 · **Forks**: 1,833 · **Open issues**: 971 · **Contributors**: 122
+- **Stars**: 50,814 · **Forks**: 1,837 · **Open issues**: 972 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 796 · **Open PRs**: 232 · **Closed issues**: 622 · **Open issues**: 349 · **Commits**: 800
+- **Releases**: 25 · **Merged PRs**: 797 · **Open PRs**: 234 · **Closed issues**: 622 · **Open issues**: 350 · **Commits**: 801
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 1 | 28 | 35 | 6 | 36 | 33 |
-| last60d | 2026-08-20 | 4 | 56 | 59 | 32 | 72 | 61 |
-| 90d | 2026-07-21 | 7 | 95 | 95 | 56 | 109 | 95 |
-| last180d | 2026-04-22 | 12 | 255 | 195 | 158 | 199 | 259 |
-| 360d | 2025-10-24 | 19 | 516 | 227 | 318 | 269 | 518 |
-| last720d | 2024-10-29 | 24 | 796 | 232 | 622 | 349 | 800 |
+| 30d | 2026-09-20 | 2 | 29 | 37 | 6 | 37 | 34 |
+| last60d | 2026-08-21 | 5 | 56 | 60 | 32 | 72 | 62 |
+| 90d | 2026-07-22 | 8 | 91 | 96 | 54 | 107 | 96 |
+| last180d | 2026-04-23 | 13 | 256 | 197 | 156 | 200 | 260 |
+| 360d | 2025-10-25 | 20 | 512 | 229 | 317 | 270 | 519 |
+| last720d | 2024-10-30 | 25 | 797 | 234 | 622 | 350 | 801 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [container-1.5.0-installer-signed.pkg](https://github.com/apple/container/releases/download/1.5.0/container-1.5.0-installer-signed.pkg) | 112.6 MiB | `other` |
-| [container-dSYM.zip](https://github.com/apple/container/releases/download/1.5.0/container-dSYM.zip) | 147.8 MiB | `other` |
-| [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.5.0/container-installer-unsigned.pkg) | 110.2 MiB | `other` |
+| [container-dSYM.zip](https://github.com/apple/container/releases/download/1.6.0/container-dSYM.zip) | 152.2 MiB | `other` |
+| [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.6.0/container-installer-unsigned.pkg) | 145.5 MiB | `other` |
 
 ## Improve this data
 
@@ -72,4 +71,4 @@ Install metadata for container lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T05:06:36Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T05:19:45Z._
