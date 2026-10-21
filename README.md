@@ -34,31 +34,32 @@ Total: **53,493** lines of code across **502** files in the top 5 languages.
 
 - **Latest**: `1.6.0` (2026-10-20)
 - **Last commit**: 2026-10-19
-- **Assets in release**: 2
+- **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 50,814 · **Forks**: 1,837 · **Open issues**: 972 · **Contributors**: 122
+- **Stars**: 50,816 · **Forks**: 1,798 · **Open issues**: 975 · **Contributors**: 122
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 797 · **Open PRs**: 234 · **Closed issues**: 622 · **Open issues**: 350 · **Commits**: 801
+- **Releases**: 25 · **Merged PRs**: 797 · **Open PRs**: 236 · **Closed issues**: 624 · **Open issues**: 351 · **Commits**: 801
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 29 | 37 | 6 | 37 | 34 |
-| last60d | 2026-08-21 | 5 | 56 | 60 | 32 | 72 | 62 |
-| 90d | 2026-07-22 | 8 | 91 | 96 | 54 | 107 | 96 |
-| last180d | 2026-04-23 | 13 | 256 | 197 | 156 | 200 | 260 |
-| 360d | 2025-10-25 | 20 | 512 | 229 | 317 | 270 | 519 |
-| last720d | 2024-10-30 | 25 | 797 | 234 | 622 | 350 | 801 |
+| 30d | 2026-09-21 | 2 | 28 | 36 | 8 | 37 | 34 |
+| last60d | 2026-08-22 | 5 | 56 | 61 | 34 | 73 | 62 |
+| 90d | 2026-07-23 | 8 | 89 | 95 | 54 | 103 | 96 |
+| last180d | 2026-04-24 | 13 | 254 | 199 | 158 | 201 | 260 |
+| 360d | 2025-10-26 | 20 | 511 | 231 | 319 | 271 | 519 |
+| last720d | 2024-10-31 | 25 | 797 | 236 | 624 | 351 | 801 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
+| [container-1.6.0-installer-signed.pkg](https://github.com/apple/container/releases/download/1.6.0/container-1.6.0-installer-signed.pkg) | 148.7 MiB | `other` |
 | [container-dSYM.zip](https://github.com/apple/container/releases/download/1.6.0/container-dSYM.zip) | 152.2 MiB | `other` |
 | [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.6.0/container-installer-unsigned.pkg) | 145.5 MiB | `other` |
 
@@ -71,4 +72,4 @@ Install metadata for container lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:19:45Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:11:10Z._

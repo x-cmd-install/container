@@ -34,31 +34,32 @@ x install container
 
 - **最新版本**: `1.6.0` (2026-10-20)
 - **最近提交**: 2026-10-19
-- **Release 含资产**: 2 个
+- **Release 含资产**: 3 个
 
 ## 流行度
 
-- **Star**: 50,814 · **Fork**: 1,837 · **开放 issue**: 972 · **贡献者**: 122
+- **Star**: 50,816 · **Fork**: 1,798 · **开放 issue**: 975 · **贡献者**: 122
 
 ## 累计统计
 
-- **发布数**: 25 · **已合并 PR**: 797 · **开放 PR**: 234 · **已关闭 issue**: 622 · **开放 issue**: 350 · **提交数**: 801
+- **发布数**: 25 · **已合并 PR**: 797 · **开放 PR**: 236 · **已关闭 issue**: 624 · **开放 issue**: 351 · **提交数**: 801
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 2 | 29 | 37 | 6 | 37 | 34 |
-| last60d | 2026-08-21 | 5 | 56 | 60 | 32 | 72 | 62 |
-| 90d | 2026-07-22 | 8 | 91 | 96 | 54 | 107 | 96 |
-| last180d | 2026-04-23 | 13 | 256 | 197 | 156 | 200 | 260 |
-| 360d | 2025-10-25 | 20 | 512 | 229 | 317 | 270 | 519 |
-| last720d | 2024-10-30 | 25 | 797 | 234 | 622 | 350 | 801 |
+| 30d | 2026-09-21 | 2 | 28 | 36 | 8 | 37 | 34 |
+| last60d | 2026-08-22 | 5 | 56 | 61 | 34 | 73 | 62 |
+| 90d | 2026-07-23 | 8 | 89 | 95 | 54 | 103 | 96 |
+| last180d | 2026-04-24 | 13 | 254 | 199 | 158 | 201 | 260 |
+| 360d | 2025-10-26 | 20 | 511 | 231 | 319 | 271 | 519 |
+| last720d | 2024-10-31 | 25 | 797 | 236 | 624 | 351 | 801 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
+| [container-1.6.0-installer-signed.pkg](https://github.com/apple/container/releases/download/1.6.0/container-1.6.0-installer-signed.pkg) | 148.7 MiB | `other` |
 | [container-dSYM.zip](https://github.com/apple/container/releases/download/1.6.0/container-dSYM.zip) | 152.2 MiB | `other` |
 | [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.6.0/container-installer-unsigned.pkg) | 145.5 MiB | `other` |
 
@@ -71,4 +72,4 @@ container 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261020.yml` · 2026-10-20T05:19:45Z._
+_数据快照: `data/card/261021.yml` · 2026-10-21T05:11:10Z._
