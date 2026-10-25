@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: container
   visiblename: container
-  version: 1.6.0
+  version: 1.6.1
   origversion: null
   status: newest
   summary: Create and run Linux containers using lightweight virtual machines
@@ -16,12 +16,13 @@
   srcname: devel/container
   binname: container
   visiblename: container
-  version: 1.5.0
+  version: 1.6.1
   origversion: null
-  status: outdated
+  status: newest
   summary: A tool to create and run Linux containers on your Mac
   maintainers:
-    - nomaintainer@macports.org
+    - i0ntempest@macports
+    - i0ntempest@github
   licenses:
     - Apache-2
   categories:
