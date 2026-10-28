@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 155965213,
       "digest": "sha256:cd47846819f06478d067060efe21e516b562ac0a9af8eecad6d5fea0b556b200",
-      "download_count": 1496,
+      "download_count": 2049,
       "created_at": "2026-10-24T01:10:26Z",
       "updated_at": "2026-10-24T01:11:02Z",
       "browser_download_url": "https://github.com/apple/container/releases/download/1.6.1/container-1.6.1-installer-signed.pkg"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 159694938,
       "digest": "sha256:2679e7ef62f2390d4fac4c3a05be65e202b3295f0210d2d5061c0ac6c140353a",
-      "download_count": 23,
+      "download_count": 27,
       "created_at": "2026-10-23T22:04:22Z",
       "updated_at": "2026-10-23T22:04:27Z",
       "browser_download_url": "https://github.com/apple/container/releases/download/1.6.1/container-dSYM.zip"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 152680743,
       "digest": "sha256:3aa1ff034fd40ef8da5a22a552693aa3a2d3c50f1b428f2e33f83838eaf2e062",
-      "download_count": 47,
+      "download_count": 53,
       "created_at": "2026-10-23T22:04:22Z",
       "updated_at": "2026-10-23T22:04:28Z",
       "browser_download_url": "https://github.com/apple/container/releases/download/1.6.1/container-installer-unsigned.pkg"
@@ -150,14 +150,14 @@
   "body": "⌨️ denotes breaking CLI changes.\r\n\r\n👩‍💻 denotes breaking API changes.\r\n\r\n- Core\r\n  - [Fix signals not properly passed to container processes](https://github.com/apple/container/pull/2276)\r\n- Kubernetes\r\n  - [Fix problems when creating clusters concurrently](https://github.com/apple/container/pull/2276)\r\n  - [Rename to `container cluster`](https://github.com/apple/container/pull/2427)\r\n\r\n## What's Changed\r\n* Fix host port conflicts and leftover failed nodes during cluster creation by @dkovba in https://github.com/apple/container/pull/2399\r\n* Fix forwarded process signal encoding by @vincent-peng in https://github.com/apple/container/pull/1778\r\n* Remove SIGWINCH from signal kill set by @ArasanDev in https://github.com/apple/container/pull/1854\r\n* Infer platform and runtime from OCI image by @noah-thor in https://github.com/apple/container/pull/2422\r\n* rename to container cluster by @crosbymichael in https://github.com/apple/container/pull/2427\r\n\r\n## New Contributors\r\n* @vincent-peng made their first contribution in https://github.com/apple/container/pull/1778\r\n* @ArasanDev made their first contribution in https://github.com/apple/container/pull/1854\r\n\r\n**Full Changelog**: https://github.com/apple/container/compare/1.6.0...1.6.1",
   "reactions": {
     "url": "https://api.github.com/repos/apple/container/releases/422348370/reactions",
-    "total_count": 18,
-    "+1": 11,
+    "total_count": 26,
+    "+1": 13,
     "-1": 0,
     "laugh": 0,
-    "hooray": 3,
+    "hooray": 5,
     "confused": 0,
-    "heart": 3,
-    "rocket": 1,
+    "heart": 5,
+    "rocket": 3,
     "eyes": 0
   },
   "mentions_count": 5
