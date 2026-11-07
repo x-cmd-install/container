@@ -14,11 +14,11 @@ x install container
 
 ## Code insight
 
-Total: **71,400** lines of code across **560** files in the top 5 languages.
+Total: **71,340** lines of code across **559** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Swift | 70,098 | 20,440 | 11,848 | 536 |
+| Swift | 70,038 | 20,442 | 11,789 | 535 |
 | Makefile | 559 | 127 | 81 | 3 |
 | Sh | 465 | 159 | 86 | 9 |
 | Yaml | 126 | 9 | 0 | 1 |
@@ -32,36 +32,36 @@ Total: **71,400** lines of code across **560** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `1.6.1` (2026-10-23)
+- **Latest**: `1.7.1` (2026-11-06)
 - **Last commit**: 2026-11-06
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 51,075 · **Forks**: 1,802 · **Open issues**: 995 · **Contributors**: 125
+- **Stars**: 51,090 · **Forks**: 1,804 · **Open issues**: 997 · **Contributors**: 125
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 821 · **Open PRs**: 232 · **Closed issues**: 636 · **Open issues**: 359 · **Commits**: 825
+- **Releases**: 27 · **Merged PRs**: 825 · **Open PRs**: 230 · **Closed issues**: 636 · **Open issues**: 361 · **Commits**: 829
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 35 | 20 | 10 | 32 | 39 |
-| last60d | 2026-09-07 | 4 | 64 | 50 | 19 | 68 | 72 |
-| 90d | 2026-08-08 | 7 | 88 | 73 | 45 | 96 | 98 |
-| last180d | 2026-05-10 | 11 | 253 | 190 | 146 | 197 | 255 |
-| 360d | 2025-11-11 | 20 | 515 | 225 | 320 | 270 | 526 |
-| last720d | 2024-11-16 | 26 | 821 | 232 | 636 | 359 | 825 |
+| 30d | 2026-10-08 | 3 | 38 | 18 | 10 | 34 | 43 |
+| last60d | 2026-09-08 | 5 | 66 | 48 | 18 | 70 | 76 |
+| 90d | 2026-08-09 | 7 | 92 | 71 | 45 | 98 | 102 |
+| last180d | 2026-05-11 | 12 | 253 | 188 | 132 | 197 | 259 |
+| 360d | 2025-11-12 | 21 | 518 | 222 | 318 | 272 | 530 |
+| last720d | 2024-11-17 | 27 | 825 | 230 | 636 | 361 | 829 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [container-1.6.1-installer-signed.pkg](https://github.com/apple/container/releases/download/1.6.1/container-1.6.1-installer-signed.pkg) | 148.7 MiB | `other` |
-| [container-dSYM.zip](https://github.com/apple/container/releases/download/1.6.1/container-dSYM.zip) | 152.3 MiB | `other` |
-| [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.6.1/container-installer-unsigned.pkg) | 145.6 MiB | `other` |
+| [container-1.7.1-installer-signed.pkg](https://github.com/apple/container/releases/download/1.7.1/container-1.7.1-installer-signed.pkg) | 161.8 MiB | `other` |
+| [container-dSYM.zip](https://github.com/apple/container/releases/download/1.7.1/container-dSYM.zip) | 257.6 MiB | `other` |
+| [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.7.1/container-installer-unsigned.pkg) | 159.5 MiB | `other` |
 
 ## Distribution status
 
@@ -69,7 +69,7 @@ Reported by **6** distros on [repology.org](https://repology.org/project/contain
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.6.1` | ✅ latest |
+| Homebrew | `1.7.1` | ✅ latest |
 | Nix unstable | `1.5.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -81,4 +81,4 @@ Install metadata for container lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:19:17Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T06:29:46Z._
