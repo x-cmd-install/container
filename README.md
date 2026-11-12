@@ -14,13 +14,13 @@ x install container
 
 ## Code insight
 
-Total: **71,685** lines of code across **563** files in the top 5 languages.
+Total: **71,861** lines of code across **564** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Swift | 70,383 | 20,511 | 11,853 | 539 |
-| Makefile | 559 | 127 | 81 | 3 |
-| Sh | 465 | 159 | 86 | 9 |
+| Sh | 584 | 203 | 116 | 10 |
+| Makefile | 563 | 127 | 82 | 3 |
 | Yaml | 126 | 9 | 0 | 1 |
 | Toml | 96 | 0 | 18 | 11 |
 
@@ -33,27 +33,27 @@ Total: **71,685** lines of code across **563** files in the top 5 languages.
 ## Release
 
 - **Latest**: `1.7.1` (2026-11-06)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-12
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 51,145 · **Forks**: 1,814 · **Open issues**: 1,001 · **Contributors**: 127
+- **Stars**: 51,233 · **Forks**: 1,819 · **Open issues**: 1,005 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 27 · **Merged PRs**: 829 · **Open PRs**: 234 · **Closed issues**: 637 · **Open issues**: 364 · **Commits**: 833
+- **Releases**: 27 · **Merged PRs**: 830 · **Open PRs**: 233 · **Closed issues**: 638 · **Open issues**: 367 · **Commits**: 834
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 3 | 35 | 20 | 8 | 35 | 34 |
-| last60d | 2026-09-12 | 4 | 62 | 51 | 16 | 67 | 73 |
-| 90d | 2026-08-13 | 7 | 92 | 75 | 42 | 99 | 99 |
-| last180d | 2026-05-15 | 12 | 243 | 189 | 130 | 200 | 248 |
-| 360d | 2025-11-16 | 21 | 519 | 225 | 316 | 274 | 521 |
-| last720d | 2024-11-21 | 27 | 829 | 234 | 637 | 364 | 833 |
+| 30d | 2026-10-13 | 3 | 35 | 18 | 9 | 37 | 35 |
+| last60d | 2026-09-13 | 4 | 63 | 49 | 17 | 70 | 74 |
+| 90d | 2026-08-14 | 7 | 92 | 74 | 42 | 101 | 100 |
+| last180d | 2026-05-16 | 12 | 242 | 188 | 128 | 203 | 249 |
+| 360d | 2025-11-17 | 21 | 519 | 224 | 311 | 271 | 522 |
+| last720d | 2024-11-22 | 27 | 830 | 233 | 638 | 367 | 834 |
 
 ## Release assets
 
@@ -81,4 +81,4 @@ Install metadata for container lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T06:54:52Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T08:02:35Z._
