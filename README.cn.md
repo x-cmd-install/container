@@ -38,22 +38,22 @@ x install container
 
 ## 流行度
 
-- **Star**: 52,083 · **Fork**: 1,849 · **开放 issue**: 1,040 · **贡献者**: 127
+- **Star**: 52,091 · **Fork**: 1,851 · **开放 issue**: 1,041 · **贡献者**: 127
 
 ## 累计统计
 
-- **发布数**: 27 · **已合并 PR**: 831 · **开放 PR**: 260 · **已关闭 issue**: 641 · **开放 issue**: 399 · **提交数**: 835
+- **发布数**: 27 · **已合并 PR**: 831 · **开放 PR**: 261 · **已关闭 issue**: 641 · **开放 issue**: 400 · **提交数**: 835
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 1 | 18 | 42 | 7 | 57 | 23 |
-| last60d | 2026-09-27 | 4 | 55 | 68 | 18 | 91 | 62 |
-| 90d | 2026-08-28 | 6 | 80 | 91 | 26 | 122 | 91 |
-| last180d | 2026-05-30 | 12 | 218 | 210 | 123 | 230 | 222 |
-| 360d | 2025-12-01 | 21 | 508 | 250 | 306 | 300 | 514 |
-| last720d | 2024-12-06 | 27 | 831 | 260 | 641 | 399 | 835 |
+| 30d | 2026-10-28 | 1 | 17 | 43 | 7 | 58 | 23 |
+| last60d | 2026-09-28 | 4 | 51 | 68 | 18 | 92 | 62 |
+| 90d | 2026-08-29 | 6 | 80 | 88 | 26 | 120 | 91 |
+| last180d | 2026-05-31 | 12 | 217 | 211 | 123 | 231 | 222 |
+| 360d | 2025-12-02 | 21 | 506 | 251 | 305 | 301 | 514 |
+| last720d | 2024-12-07 | 27 | 831 | 261 | 641 | 400 | 835 |
 
 ## Release 资产
 
@@ -62,15 +62,6 @@ x install container
 | [container-1.7.1-installer-signed.pkg](https://github.com/apple/container/releases/download/1.7.1/container-1.7.1-installer-signed.pkg) | 161.8 MiB | `other` |
 | [container-dSYM.zip](https://github.com/apple/container/releases/download/1.7.1/container-dSYM.zip) | 257.6 MiB | `other` |
 | [container-installer-unsigned.pkg](https://github.com/apple/container/releases/download/1.7.1/container-installer-unsigned.pkg) | 159.5 MiB | `other` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/container) 上共有 **6** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.7.1` | ✅ latest |
-| Nix unstable | `1.5.0` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -81,4 +72,4 @@ container 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T08:53:52Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T08:55:38Z._
